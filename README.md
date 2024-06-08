@@ -16,7 +16,8 @@ Please follow the below steps to run this project.
 2. streamlit run home.py
 
 
-### Subject Details
-- Class : BE (EXTC) Div A - 2023-2024
-- Subject : Major Project-I (MajPrj-1)
-- Project Type : Major Project
+![GenAI](https://github.com/uzair2002/AI-based-Exploratory-Data-Analysis-/assets/77317088/86b33ba3-d82a-4247-b15c-b9fbf1786f13)
+
+
+https://github.com/uzair2002/AI-based-Exploratory-Data-Analysis-/assets/77317088/ef023164-68cd-44d2-b400-2aa74f2d5223
+
